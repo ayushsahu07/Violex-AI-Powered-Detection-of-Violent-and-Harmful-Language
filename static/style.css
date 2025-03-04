@@ -65,8 +65,6 @@ body {
     font-size: 1.5rem;
     font-weight: bolder;
 }
-
-
 /* ---------------search---------------------------- */
 
 @keyframes glowRotate {
@@ -340,8 +338,6 @@ body {
       cursor: pointer;
     }
 /* ------------------------------------------------Loader-------------------------------------------- */
-
-
 .dots-container {
   display: flex;
   align-items: center;
@@ -394,10 +390,6 @@ body {
     box-shadow: 0 0 0 0 rgba(178, 212, 252, 0.7);
   }
 }
-
-
-
-
 /* -----------------------------------------------Media-Query------------------------------------------- */
 @media screen and (max-width: 480px) {
     .chat-container {
