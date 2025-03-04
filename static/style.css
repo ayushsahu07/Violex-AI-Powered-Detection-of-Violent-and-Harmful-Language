@@ -1,5 +1,6 @@
 body {
     background: linear-gradient(135deg, #000000 0%, rgb(18, 26, 79) 100%);
+    /* background: linear-gradient(135deg, #feac5e 0%, #c779d0 50%, #4bc0c8 100%); */
 }
 
 .Nvbar {
